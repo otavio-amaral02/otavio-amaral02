@@ -1,16 +1,17 @@
-## Hi there 👋
+# titulo
+## subtítulo
+**negrito**
+- item (Item lista)
+- .[texo].(https://link.com). -link clicável
+- ![descrição](link-da-imagem). - imagem
 
-<!--
-**otavio-amaral02/otavio-amaral02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ##olá, eu sou otávio
+- Estudante de desenvolvimento de sistemas - senai
+- programação desenvolvimento web
 
-Here are some ideas to get you started:
+- ## tecnologias
+- linguagens: Python, java script, C, C++, C#, .Net...
+- Banco de dados: mysql
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Meu perfil].(hyyps://linkedin.com)
+- |[descrição].([https://www.flaticon.com/br/icone-gratis/programador_3271001))
