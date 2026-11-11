@@ -2,7 +2,7 @@
 ## subtítulo
 **negrito**
 - item (Item lista)
-- .[texo].(https://link.com). -link clicável
+- .[texto].(https://link.com). -link clicável
 - ![descrição](link-da-imagem). - imagem
 
 - ##olá, eu sou otávio
